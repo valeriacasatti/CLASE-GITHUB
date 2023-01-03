@@ -13,3 +13,9 @@ strong{
 marquee{
     color: blue;
 }
+
+header{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(255, 255, 192);
+}
